@@ -1,6 +1,6 @@
-package qno2.com.example.shapes;
+package com.example.shapes;
 
-public class Rectangle {
+ class Rectangle {
     int length;
     int breadth;
 
